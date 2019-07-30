@@ -1,0 +1,1 @@
+all data types except somatic mutation are samples which are with both tumor and normal cases
