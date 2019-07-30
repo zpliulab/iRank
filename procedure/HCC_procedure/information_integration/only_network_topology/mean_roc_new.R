@@ -1,8 +1,9 @@
 rm(list=ls())
 library(R.matlab)#D
+## setwd
 #setwd("D:/shx_bioinformatics/TCGA_Project/used_for_plot_ROC_and_static")
 #data <- readMat("reg_s_33_new.mat")
-setwd("D:/shx_bioinformatics/TCGA_Project/Copy_of_Reg_original")
+setwd("D:/git_data/procedure/HCC_procedure/information_integration/only_network_topology")
 #data <- readMat("RDC_3_33_new.mat")
 #setwd("I:\\shx_bioinformatics\\TCGA_Project\\Copy_of_reg_c")
 data <- readMat("ORI_disease_33_new.mat")
