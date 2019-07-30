@@ -1,0 +1,1 @@
+all the data types include the cases which are with both tumor and normal samples.
