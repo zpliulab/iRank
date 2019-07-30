@@ -7,7 +7,8 @@ Created on Mon Apr  8 19:35:50 2019
 import os
 #os.chdir("D:\\shx_bioinformatics\\TCGA_Project\\used_for_plot_ROC_and_static")
 #os.chdir("D:\\shx_bioinformatics\\TCGA_Project\\Copy_of_reg_d_c")
-os.chdir("D:\\shx_bioinformatics\\TCGA_Project\\Copy_of_Reg_original")
+#os.chdir("D:\\shx_bioinformatics\\TCGA_Project\\Copy_of_Reg_original")
+os.chdir("D:\\git_data\\procedure\\HCC_procedure\\information_integration\\only_network_topology")
 import numpy as np
 from sklearn import metrics
 from scipy import interp
