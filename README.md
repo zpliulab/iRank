@@ -11,13 +11,13 @@
 #### Gene regulation network (GRN), from RegNetwork
 #### Protein-protein interaction network (PPIN), from several databases 
 ## Procedure:
-### (a) prepare data (in R): 
+### (a) prepare data: 
 ####    Mutual information calculation 
-### (b) implement iRank (in matlab):
+### (b) implement iRank:
 ####    Integrating different omics data, ORI, ORIr, ORIrd,ORIrds, ORIrdms..... 
 ####     Saving results as .mat ('-v6')
-### (c) results show (in R)
+### (c) results show:
 ####    Input .mat, implement .R, get the ROC curves and the boxplots of different integrations
 ###
 ## Giude:
-#### iRANK_guide gives an example on how to implement our iRANK (ORIrd), a .txt guide in this file can guide you how implement our procedure.
+#### iRANK_guide gives an example on how to implement our iRANK (ORIrd), a .txt guide in this file can guide you implement our procedure easily.
