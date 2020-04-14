@@ -21,3 +21,5 @@
 ###
 ## Giude:
 #### iRANK_guide gives an example on how to implement our iRANK (ORIrd), a .txt guide in this file can guide you implement our procedure easily.
+## Reference
+#### Haixia Shang, Zhi-ping Liu. Network-based prioritization of cancer genes by integrative ranks from multi-omics data. Computers in Biology and Medicine,119,2020.
